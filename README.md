@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 #### 사용해본것
-MySQL, python, java, javaScript<br/>
-SpringBoot, React
+Language: MySQL, python, java, javaScript, Html<br/>
+FrameWork: SpringBoot, React<br/>
+Tool: HeidiSQL, Visual Studio Code, Eclipse, Anaconda(jupyter)
 <!--
 **portk/portk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
