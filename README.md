@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 사용해본것
+MySQL, python, java, javaScript
 <!--
 **portk/portk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
