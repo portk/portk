@@ -5,8 +5,7 @@ Language: MySQL, python, java, javaScript, Html<br/>
 FrameWork: SpringBoot, React<br/>
 Tool: HeidiSQL, Visual Studio Code, Eclipse, Anaconda(jupyter)
 
-#### 포트폴리오 링크
-[포트폴리오는 이쪽에 있어요](https://github.com/portk/portfolio)
+#### [포트폴리오 링크](https://github.com/portk/portfolio)
 <!--
 **portk/portk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
