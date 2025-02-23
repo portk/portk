@@ -3,7 +3,7 @@
 #### 사용해본것
 Language: MySQL, python, java, javaScript, Html, C, C++, C#<br/>
 FrameWork: SpringBoot, React<br/>
-Tool: HeidiSQL, Visual Studio Code, Eclipse, Anaconda(jupyter)
+Tool: Visual Studio, Visual Studio Code, Eclipse, Anaconda(jupyter), HeidiSQL
 
 #### [포트폴리오 링크](https://github.com/portk/portfolio)
 <!--
